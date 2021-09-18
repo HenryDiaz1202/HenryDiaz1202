@@ -1,3 +1,3 @@
-![](resources/prog2.svg = 200x100)
+![](resources/prog2.svg){width: 200px}
 # HenryDiaz1202
 
