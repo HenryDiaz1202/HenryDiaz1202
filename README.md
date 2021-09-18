@@ -1,3 +1,3 @@
-![](resources/prog1.svg)
+![](resources/prog2.svg)
 # HenryDiaz1202
 
