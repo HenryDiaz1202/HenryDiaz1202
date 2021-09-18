@@ -1,2 +1,2 @@
-# HenryDiaz1202 ☺☻
+# HenryDiaz1202
 
