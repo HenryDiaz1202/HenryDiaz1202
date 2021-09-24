@@ -1,3 +1,3 @@
-![](resources/prog2.svg)
+![](resources/ft.jpg)
 # HenryDiaz1202
 
