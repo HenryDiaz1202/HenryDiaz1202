@@ -1,5 +1,7 @@
 ![](resources/ft.jpg)
 #### HenryDiaz1202
+1. [Mi sitio](https://intec-120.web.app/)
+
 
 Desarrollo de aplicaciones móviles usando java
 ![](resources/java.png)
@@ -12,5 +14,7 @@ Desarrollo de aplicaciones móviles usando java
 Aplicaciones en PlayStore
 
 
-1. [:cloud: CAprendiendo Mayangna](https://play.google.com/store/apps/details?id=henry.mayangna)
+1. [:cloud: Aprendiendo Mayangna](https://play.google.com/store/apps/details?id=henry.mayangna)
 
+
+1. [:cloud: Convertidor de temperatura](https://play.google.com/store/apps/details?id=com.henry.formulessolve)
