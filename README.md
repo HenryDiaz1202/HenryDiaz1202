@@ -1,7 +1,6 @@
 ![](resources/ft.jpg)
 #### HenryDiaz1202
-1. [Mi sitio](https://intec-120.web.app/)
-
+[Mi sitio](https://intec-120.web.app/)
 
 Desarrollo de aplicaciones móviles usando java
 ![](resources/java.png)
@@ -10,11 +9,8 @@ Desarrollo de aplicaciones móviles usando java
 2. [:moneybag: Precios a productos](https://github.com/HenryDiaz1202/PrecioProductos.git)
 2. [:closed_book: Contactos App](https://github.com/HenryDiaz1202/wallip.git)
      
-
 Aplicaciones en PlayStore
 
-
 1. [:cloud: Aprendiendo Mayangna](https://play.google.com/store/apps/details?id=henry.mayangna)
-
 
 1. [:cloud: Convertidor de temperatura](https://play.google.com/store/apps/details?id=com.henry.formulessolve)
