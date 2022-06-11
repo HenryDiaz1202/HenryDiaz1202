@@ -1,6 +1,5 @@
-![](resources/ft.jpg)
+![](resources/intec.jpg)
 #### HenryDiaz1202
-[Mi sitio](https://intec-120.web.app/)
 
 Desarrollo de aplicaciones móviles usando java
 ![](resources/java.png)
@@ -14,3 +13,10 @@ Aplicaciones en PlayStore
 1. [:cloud: Aprendiendo Mayangna](https://play.google.com/store/apps/details?id=henry.mayangna)
 
 1. [:cloud: Convertidor de temperatura](https://play.google.com/store/apps/details?id=com.henry.formulessolve)
+
+<!--
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryDiaz1202&show_icons=true&theme=merko)
+-->
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HenryDiaz1202&layout=compact)](https://github.com/HenryDiaz1202/github-readme-stats)
+
