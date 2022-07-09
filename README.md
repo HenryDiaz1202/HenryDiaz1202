@@ -1,4 +1,4 @@
-![](resources/intec.jpg)
+[comment]: <> ![](resources/intec.jpg)
 #### HenryDiaz1202
 
 Desarrollo de aplicaciones móviles usando java
