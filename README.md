@@ -1,7 +1,7 @@
 #### HenryDiaz1202
 
 
-#### [:www:] Mi sitio web [InTec-i](https://intec-120.web.app/) 
+#### [:internet:] Mi sitio web [InTec-i](https://intec-120.web.app/) 
 
 
 Desarrollo de aplicaciones móviles usando java
