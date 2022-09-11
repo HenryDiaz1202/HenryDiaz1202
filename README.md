@@ -1,7 +1,7 @@
 #### HenryDiaz1202
 
 
-#### Mi sitio web [InTec-i](https://intec-120.web.app/) [:cloud: Conversión de temperaturas]
+#### Mi sitio web [InTec-i](https://intec-120.web.app/) [:cloud:]
 
 
 Desarrollo de aplicaciones móviles usando java
