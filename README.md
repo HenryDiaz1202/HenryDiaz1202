@@ -25,4 +25,4 @@ Aplicaciones en PlayStore
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=HenryDiaz1202&show_icons=true&theme=cobalt)
 
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HenryDiaz1202)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=HenryDiaz1202)](https://github.com/HenryDiaz1202/github-readme-stats)
